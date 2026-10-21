@@ -112,7 +112,7 @@ createUserCard({
   name: 'John Doe',
   username: 'johndoe',
   email: 'john.doe@example.com',
-  phone: '+1-555-1234',
+  phone: '+2-555-1234',
   address: {
     city: 'New York'
   },

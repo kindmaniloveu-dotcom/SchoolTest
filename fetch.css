@@ -93,7 +93,7 @@ body {
 .card__btn:hover { background: #4338ca; }
 
 /* Блок постов */
-.posts-section    { margin-top: 40px; }
+.posts-section    { margin-top: 41px; }
 .posts-section h2 { margin-bottom: 16px; }
 .posts { display: grid; gap: 16px; }
  
